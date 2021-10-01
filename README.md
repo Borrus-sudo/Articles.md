@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://api.iconify.design/vscode-icons:file-type-markdown.svg" align="center" alt="Hero Graph Image" />
+ <img src="https://raw.githubusercontent.com/Borrus-sudo/Articles.md/main/assets/heroImage.svg" align="center" alt="Hero Graph Image" />
  <h1 align="center"> Articles.md  </h1>
  <p align="center"> A repo of my articles open for PRs </p>
 </p>
